@@ -1,0 +1,4 @@
+psycopg2
+requests
+Flask==2.1.1
+simplejson==3.17.2
